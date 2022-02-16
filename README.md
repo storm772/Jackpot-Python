@@ -5,6 +5,6 @@ It's Y-Independent because im bored to make every single row slot independent an
 
 ### Y-Independent? what is that
 The code will only check if Y axis is the same, Example:<br>
-__**X**__ Y Y <br>
-__**X**__ Y Y <br>
-__**X**__ Y Y
+<ins>**X**</ins> Y Y <br>
+<ins>**X**</ins> Y Y <br>
+<ins>**X**</ins> Y Y
